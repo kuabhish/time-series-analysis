@@ -1,0 +1,11 @@
+Package: ad.benchmark
+Type: Package
+Title: Anomaly Detection Benchmarking
+Version: 0.1
+Date: 2016-8-15
+Author: Andrew Emmott <emmotta@oregonstate.edu>
+Maintainer: Andrew Emmott <emmotta@oregonstate.edu>
+Description: Tools for generating anomaly detection benchmarks from other supervised data sets.
+License: CC BY 4.0
+Depends: optparse,randomForest,methods,e1071
+ByteCompile: TRUE
